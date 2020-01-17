@@ -9,8 +9,6 @@ class InfoRequest extends Component {
 
     componentDidMount() {
         this.GetHtmlCode();
-
-        
     }
 
     GatherSeasonInformations() {
